@@ -32,4 +32,5 @@
  
  5) Run the code in the IDE on your right half of the screen.
     
-   
+ Your screen should look something like this before you start......!
+ ![alt text](https://github.com/souravrane/Dinosaur-Gamebot/blob/master/Screenshot/window.png)
